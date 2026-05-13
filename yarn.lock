@@ -1365,6 +1365,7 @@ __metadata:
   resolution: "@cosider/web@workspace:apps/web"
   dependencies:
     "@cosider/eslint-config": "workspace:*"
+    "@cosider/shared": "workspace:*"
     "@hocuspocus/provider": "npm:^4.0.0"
     "@iconify-json/lucide": "npm:^1.2.106"
     "@iconify-json/simple-icons": "npm:^1.2.81"

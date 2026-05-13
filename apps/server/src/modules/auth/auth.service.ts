@@ -1,8 +1,8 @@
-import { Inject, Injectable } from '@nestjs/common';
+import { Injectable } from '@nestjs/common';
 
-import { DB_CONNECTION, type DrizzleDB } from '@/database/drizzle.module';
+// import { DB_CONNECTION, type DrizzleDB } from '@/database/drizzle.module';
 
 @Injectable()
 export class AuthService {
-  constructor(@Inject(DB_CONNECTION) private readonly db: DrizzleDB) {}
+  // constructor(@Inject(DB_CONNECTION) private readonly db: DrizzleDB) {}
 }
