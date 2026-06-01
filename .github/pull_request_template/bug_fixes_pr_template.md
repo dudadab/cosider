@@ -6,11 +6,11 @@
 
 Type #Issue-number
 
-- Please link the related issue number here.
+- Type: Resolves, Fixes etc.
 
 ## Task ID
 
-TYPE#00
+CSF(or CSB)-00
 
 ## Changes Made
 

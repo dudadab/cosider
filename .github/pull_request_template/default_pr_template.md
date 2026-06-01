@@ -4,9 +4,9 @@
 
 ## Related Feature ID
 
-Resolves TYPE-00
+Type #Issue-number
 
-- Please link the related issue number here.
+- Type: Resolves, Fixes etc.
 
 ## Changes Made
 
