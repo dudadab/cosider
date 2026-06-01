@@ -15,6 +15,6 @@
   "devDependencies": {
     "@cosider/eslint-config": "workspace:*",
     "@cosider/typescript-config": "workspace:*",
-    "typescript": "^5.9.2"
+    "typescript": "^6.0.3"
   }
 }
