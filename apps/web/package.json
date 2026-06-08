@@ -14,16 +14,16 @@
     "@cosider/shared": "workspace:^",
     "@hocuspocus/provider": "^4.1.0",
     "@iconify-json/lucide": "^1.2.111",
-    "@iconify-json/simple-icons": "^1.2.84",
-    "@nuxt/ui": "^4.8.1",
+    "@iconify-json/simple-icons": "^1.2.86",
+    "@nuxt/ui": "^4.8.2",
     "@tiptap/extension-collaboration-cursor": "2.26.2",
-    "@tiptap/starter-kit": "^3.24.0",
-    "@tiptap/vue-3": "^3.24.0",
+    "@tiptap/starter-kit": "^3.26.0",
+    "@tiptap/vue-3": "^3.26.0",
     "gridstack": "^12.6.0",
-    "nuxt": "^4.4.6",
+    "nuxt": "^4.4.7",
     "prettier-plugin-tailwindcss": "^0.8.0",
     "tailwindcss": "^4.3.0",
-    "tldraw": "^5.0.1",
+    "tldraw": "^5.1.0",
     "yjs": "^13.6.31"
   },
   "devDependencies": {
@@ -31,7 +31,7 @@
     "@nuxt/eslint": "^1.15.2",
     "eslint": "^10.4.1",
     "typescript": "^6.0.3",
-    "vue-tsc": "^3.3.3"
+    "vue-tsc": "^3.3.4"
   },
   "packageManager": "yarn@4.14.1"
 }
