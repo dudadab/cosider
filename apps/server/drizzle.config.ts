@@ -12,6 +12,11 @@ export default defineConfig({
 
   // 4. DB 접속 정보 (환경 변수에서 주입)
   dbCredentials: {
-    url: process.env.DATABASE_URL!,
+    host: process.env.DB_HOST!,
+    port: Number(process.env.DB_PORT),
+    user: process.env.DB_USER!,
+    password: process.env.DB_PASSWORD!,
+    database: process.env.DB_DATABASE!,
+    ssl: false,
   },
 });
